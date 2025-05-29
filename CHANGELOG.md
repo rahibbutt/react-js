@@ -1,3 +1,10 @@
+# [1.0.0-canary.2](https://github.com/rahibbutt/react-js/compare/v1.0.0-canary.1...v1.0.0-canary.2) (2025-05-29)
+
+
+### Features
+
+* add new title ([9a6372c](https://github.com/rahibbutt/react-js/commit/9a6372c495c0fd6ecb98563d466b13db1a6fe16e))
+
 # 1.0.0-canary.1 (2025-05-29)
 
 
