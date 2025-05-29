@@ -1,3 +1,10 @@
+# [1.1.0-canary.1](https://github.com/rahibbutt/react-js/compare/v1.0.0...v1.1.0-canary.1) (2025-05-29)
+
+
+### Features
+
+* add pages permissions for cd workflow ([43c9ab9](https://github.com/rahibbutt/react-js/commit/43c9ab921c4a0f2c2f082d6e2c93c47d56644422))
+
 # 1.0.0 (2025-05-29)
 
 
