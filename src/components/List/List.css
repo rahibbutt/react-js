@@ -1,0 +1,10 @@
+.List ul{
+    list-style-type: none;
+    margin: 0 0 10px;
+    border: 1px solid #C0c0c0;
+    padding: 10px;
+}
+
+.List ul li{
+    text-align: left;
+}
