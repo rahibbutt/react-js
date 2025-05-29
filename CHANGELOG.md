@@ -1,3 +1,10 @@
+# [1.0.0-canary.3](https://github.com/rahibbutt/react-js/compare/v1.0.0-canary.2...v1.0.0-canary.3) (2025-05-29)
+
+
+### Features
+
+* add permissions for cd workflow ([e0d4884](https://github.com/rahibbutt/react-js/commit/e0d4884475008a3de1a6c183ec509ad2ee835161))
+
 # [1.0.0-canary.2](https://github.com/rahibbutt/react-js/compare/v1.0.0-canary.1...v1.0.0-canary.2) (2025-05-29)
 
 
